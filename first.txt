@@ -1,6 +1,12 @@
 ayush
 git init
-git add
+git add .
 git commit -m "version1"
 
 after updating
+
+to update a file
+git add .
+git commit -m "version1"
+git status // to check
+git push -u origin master
